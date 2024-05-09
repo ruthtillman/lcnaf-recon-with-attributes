@@ -1,0 +1,93 @@
+[
+    {
+       "id": "rae2",
+       "local_name": "Rosa A Eberly",
+       "lc_name": "Eberly, Rosa A.",
+       "best_match": 100,
+       "url": "http://id.loc.gov/authorities/names/n99049877",
+       "affiliation": [
+          "citation"
+       ],
+       "occupation_match": "True",
+       "lc_occupations": [
+          "Rhetoricians",
+          "College teachers"
+       ],
+       "local_education": null,
+       "local_organization": "Communication Arts and Sciences",
+       "lc_organizations": [
+          "Pennsylvania State University",
+          "University of Chicago"
+       ],
+       "lc_activity": [
+          "Rhetoric"
+       ],
+       "lc_citation_data": [
+          "CIP t.p. (Rosa A. Eberly)",
+          "Citizen critics, c2000:",
+          "(Rosa A. Eberly, Ph.D., Associate Professor of Rhetoric ; rhosa@psu.edu ; University Park , PA ; Education: B.A., The Pennsylvania State University, 1984; M.A., The University of Chicago, 1987; Ph.D., The Pennsylvania State University, 1994)",
+          [
+             {
+                "@id": "http://cas.la.psu.edu/people/rae2"
+             },
+             "Penn State, Department of Communication web site, February 5, 2019:"
+          ],
+          "CIP t.p. (Rosa A. Eberly) data sheet (b. Dec. 3, 1962)",
+          "The elements of reasoning, 2000:",
+          "page 299 (Rosa A. Eberly is a free-range rhetorician who studies histories and theories of rhetoric, publics theory, public memory, and deliberation in higher education contexts and beyond)",
+          "Ancient rhetorics and digital networks, 2018:"
+       ]
+    },
+    {
+       "id": "rkt6",
+       "local_name": "Ruth Kitchin Tillman",
+       "lc_name": "Tillman, Ruth",
+       "best_match": 100,
+       "url": "http://id.loc.gov/authorities/names/no2019174587",
+       "affiliation": [
+          "citation"
+       ],
+       "activity_match": [
+          "citation"
+       ],
+       "occupation_match": "True",
+       "lc_occupations": [
+          "Game designer",
+          "Librarians",
+          "Authors"
+       ],
+       "local_education": [
+          "University of Maryland"
+       ],
+       "education_match": [
+          "citation"
+       ],
+       "local_organization": "University Libraries",
+       "lc_organizations": [
+          "Pennsylvania State University. Libraries",
+          "University of Notre Dame"
+       ],
+       "lc_activity": [
+          "Role-playing game design",
+          "Library science",
+          "Fantasy games",
+          "Zines",
+          "Linked data"
+       ],
+       "lc_citation_data": [
+          "title page (Ruth Tillman)",
+          "Reticule revival, 2017:",
+          "A brief guide to my name page (Ruth Kitchin Tillman; Kitchin is my original last name); CV page (Pennsylvania State University Libraries, Cataloging Systems and Linked Data Strategist, September 2017- ; Hesburgh Library, University of Notre Dame, Digital Collections Librarian, February 2016-August 2017; University of Maryland iSchool, Master of Library Science, December 2013); zines and patterns page (list of available zines in print and electronically, including Reticule revival)",
+          [
+             {
+                "@id": "http://ruthtillman.com/"
+             },
+             "Ruth Kitchin Tillman WWW page viewed November 15, 2019:"
+          ],
+          "(Ruth Tillman, American librarian and game designer; Ruth Kitchin Tillman)",
+          "Wikidata, viewed November 15, 2019",
+          "cover (Sourcebook for the Call of Cthulhu and Gumshoe roleplaying games) credits page (Harlem herself written by Ruth Tillman and Sarah Hood)",
+          "Harlem unbound, 2017:"
+       ]
+    }
+ ]

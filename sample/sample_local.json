@@ -1,0 +1,22 @@
+[{
+    "access_id" : "rae2",
+    "name" : "Rosa A Eberly",
+    "first_name" : "Rosa",
+    "last_name" : "Eberly",
+    "inverted_name" : "Eberly, Rosa",
+    "title" : "Associate Professor",
+    "dept_name" : "Communication Arts and Sciences",
+    "education_history" : null
+  }
+,
+{
+  "access_id" : "rkt6",
+  "name" : "Ruth Kitchin Tillman",
+  "first_name" : "Ruth",
+  "last_name" : "Tillman",
+  "inverted_name" : "Tillman, Ruth",
+  "title" : "Associate Librarian",
+  "dept_name" : "University Libraries",
+  "education_history" : [ "University of Maryland"]
+}
+]
